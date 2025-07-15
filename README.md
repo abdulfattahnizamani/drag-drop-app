@@ -23,7 +23,7 @@ This is a simple HTML, CSS, and JavaScript project demonstrating **drag-and-drop
 
 ## 🖼️ Screenshot
 
-![Preview](./screenshot.png)
+!![Preview](https://raw.githubusercontent.com/abdulfattahnizamani/drag_drop_app/main/screenshot.png)
 
 *(Add a screenshot image named `screenshot.png` in your project root for this to work)*
 
