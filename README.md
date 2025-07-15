@@ -23,7 +23,7 @@ This is a simple HTML, CSS, and JavaScript project demonstrating **drag-and-drop
 
 ## 🖼️ Screenshot
 
-!![Preview](https://raw.githubusercontent.com/abdulfattahnizamani/drag_drop_app/main/screenshot.png)
+!![Preview](./screenshot.png)
 
 *(Add a screenshot image named `screenshot.png` in your project root for this to work)*
 
@@ -31,3 +31,32 @@ This is a simple HTML, CSS, and JavaScript project demonstrating **drag-and-drop
 
 ## 📂 Folder Structure
 
+
+---
+
+## ⚙️ How to Run
+
+1. Clone or download this repository.
+2. Ensure the file structure matches the above.
+3. Open `index.html` in your browser.
+4. Drag items between the left and right boxes!
+
+---
+
+## 📌 Notes
+
+- Make sure the image file `icon.png` exists in the same directory.
+- Works on all modern browsers that support HTML5 Drag & Drop.
+
+---
+
+## 👤 Author
+
+**Abdulfattah Nizamani**  
+[LinkedIn](https://www.linkedin.com/in/your-link)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
