@@ -2,6 +2,8 @@
 
 This is a simple HTML, CSS, and JavaScript project demonstrating **drag-and-drop functionality**. Users can drag list items (with icons) from one container to another using the mouse.
 
+[Live demo on vercel](https://drag-drop-app-nine.vercel.app/)
+
 ---
 
 ## 📦 Features
