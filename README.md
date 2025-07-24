@@ -19,15 +19,7 @@ This is a simple HTML, CSS, and JavaScript project demonstrating **drag-and-drop
 - CSS3
 - JavaScript (Vanilla)
 
----
 
-## 🖼️ Screenshot
-
-!![Preview](./screenshot.png)
-
-*(Add a screenshot image named `screenshot.png` in your project root for this to work)*
-
----
 
 ## 📂 Folder Structure
 
