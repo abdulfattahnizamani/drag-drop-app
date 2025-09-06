@@ -47,7 +47,7 @@ This is a simple HTML, CSS, and JavaScript project demonstrating **drag-and-drop
 ## 👤 Author
 
 **Abdulfattah Nizamani**  
-[LinkedIn](https://www.linkedin.com/in/your-link)
+[LinkedIn](https://linkedin.com/in/fattahniz)
 
 ---
 
