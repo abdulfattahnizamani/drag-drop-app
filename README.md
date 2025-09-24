@@ -2,10 +2,6 @@
 
 This is a simple HTML, CSS, and JavaScript project demonstrating **drag-and-drop functionality**. Users can drag list items (with icons) from one container to another using the mouse.
 
-[Live demo on vercel](https://drag-drop-app-nine.vercel.app/)
-
----
-
 ## 📦 Features
 
 - Drag items from **Left Box** to **Right Box** and vice versa.
@@ -13,44 +9,38 @@ This is a simple HTML, CSS, and JavaScript project demonstrating **drag-and-drop
 - Styled with minimal **CSS**.
 - Supports text and image/icon in each item.
 
----
+## 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript (ES6+)
 
-## 🧰 Tech Stack
+**Deployment:** Vercel
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+## Installation
+1. Clone the repo
+```bash
+   git clone https://github.com/fattahniz/drag-drop-app.git
+cd drag-drop
+```
 
+2. Run locally
+Open index.html directly in your browser or use a Live Server extension in VS Code.
 
+## 📂 Project Structure
+```css
+project/
+│── index.html
+│── style.css
+│── main.js
+│── images/
+│── README.md
+```
 
-## 📂 Folder Structure
+## 🤝 Contributing
+Fork the repo
 
-
----
-
-## ⚙️ How to Run
-
-1. Clone or download this repository.
-2. Ensure the file structure matches the above.
-3. Open `index.html` in your browser.
-4. Drag items between the left and right boxes!
-
----
-
-## 📌 Notes
-
-- Make sure the image file `icon.png` exists in the same directory.
-- Works on all modern browsers that support HTML5 Drag & Drop.
-
----
-
-## 👤 Author
-
-**Abdulfattah Nizamani**  
-[LinkedIn](https://linkedin.com/in/fattahniz)
-
----
+1. Create a new branch (feature/my-feature)
+2. Commit changes
+3. Push branch and create a Pull Request
 
 ## 📄 License
-
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT License](LICENSE) – see the LICENSE
+file for details.
